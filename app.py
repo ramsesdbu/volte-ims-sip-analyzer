@@ -38,7 +38,7 @@ html, body, [class*="css"] {
     color: #dce5ef !important;
 }
 .block-container {
-    padding-top: 1.5rem;
+    padding-top: 3.5rem !important;
     padding-bottom: 3rem;
     max-width: 1600px;
 }
