@@ -1,0 +1,207 @@
+Ramses Telecom Software License v1.0
+
+Copyright (c) 2026 Romulus Ramses
+All rights reserved.
+
+IMPORTANT NOTICE
+
+This is a proprietary, source-available software license. It is NOT an
+Open Source Initiative (OSI) approved open-source license.
+
+1. DEFINITIONS
+
+"Software" means the original source code, scripts, configuration,
+documentation, sample materials, and other materials contained in this
+repository that are owned by the Copyright Owner.
+
+"Copyright Owner" means Romulus Ramses.
+
+"Repository" means the public GitHub repository containing the Software.
+
+"Commercial Use" means any use intended for or directly or indirectly
+connected with commercial advantage, monetary compensation, revenue
+generation, paid services, enterprise operations, customer delivery,
+production network operations, or use by a commercial organization.
+
+2. COPYRIGHT
+
+The Software and all original materials in this repository are protected
+by applicable copyright laws.
+
+Copyright (c) 2026 Romulus Ramses.
+All rights reserved.
+
+3. PERMITTED USE
+
+Subject to the terms of this License, the Copyright Owner grants a
+limited, non-exclusive, non-transferable, revocable license to:
+
+a. View the source code through the public repository.
+
+b. Clone the repository for personal evaluation.
+
+c. Run the Software for personal, educational, academic, research, or
+   non-commercial evaluation purposes.
+
+d. Modify the Software locally for personal, educational, academic,
+   research, or non-commercial evaluation purposes.
+
+e. Create local experimental changes that are not redistributed or used
+   for Commercial Use.
+
+4. RESTRICTED USE
+
+Without prior written permission from the Copyright Owner, you may NOT:
+
+a. Use the Software for Commercial Use.
+
+b. Sell, rent, lease, sublicense, or otherwise commercialize the Software.
+
+c. Redistribute the source code or substantial portions of the source code.
+
+d. Publish a modified, forked, translated, or derivative version of the
+   Software for public distribution.
+
+e. Create a commercial product, service, SaaS platform, monitoring
+   platform, troubleshooting platform, NOC platform, or network assurance
+   system based substantially on the Software.
+
+f. Integrate the Software or substantial portions of it into a commercial
+   telecom, IMS, VoLTE, VoIP, network monitoring, service assurance, or
+   network operations product without a separate written license.
+
+g. Use the Software for production network operations on behalf of a
+   commercial organization without written permission.
+
+h. Sublicense, transfer, or grant rights to the Software to another party.
+
+i. Remove, modify, or obscure copyright, license, or attribution notices.
+
+j. Represent the Software or a substantial derivative as an original work
+   created by another person or organization.
+
+k. Use the Software to provide a paid service to third parties without
+   prior written permission.
+
+5. PUBLIC REPOSITORY AND FORKS
+
+The public availability of the Repository does not grant permission to
+commercially redistribute or commercially exploit the Software.
+
+GitHub's platform features, including viewing, cloning, or platform-level
+forking where available, do not change the copyright restrictions stated
+in this License.
+
+Any public redistribution of modified or copied source code requires
+prior written permission from the Copyright Owner unless otherwise
+required by applicable law.
+
+6. COMMERCIAL LICENSING
+
+Commercial use may be permitted under a separate written commercial
+license.
+
+Examples include:
+
+- Enterprise deployment
+- Commercial NOC deployment
+- Telecom operator production use
+- Integration into a commercial product
+- OEM use
+- SaaS or hosted service
+- Paid consulting based substantially on the Software
+- Redistribution to customers
+- Resale or sublicensing
+
+For commercial licensing inquiries, contact the Copyright Owner through
+the contact information published in the project repository.
+
+7. THIRD-PARTY COMPONENTS
+
+This License applies only to original materials owned by the Copyright
+Owner.
+
+Third-party libraries, frameworks, tools, and dependencies used by the
+Software are subject to their own respective licenses.
+
+Nothing in this License grants rights to third-party software beyond the
+rights granted by the respective third-party licenses.
+
+8. SAMPLE PCAP AND TEST DATA
+
+Any sample PCAP, logs, packet captures, or test data included with this
+repository are intended for demonstration and testing.
+
+Production telecommunications captures must not be included in the
+public repository unless the uploader has the necessary rights and has
+properly removed or anonymized sensitive information.
+
+Sample materials may have additional restrictions stated in their
+respective files or documentation.
+
+9. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT,
+ACCURACY, RELIABILITY, OR AVAILABILITY.
+
+The Copyright Owner does not warrant that the Software:
+
+- is error-free;
+- will correctly identify every SIP failure;
+- will correctly classify every call;
+- will detect every network problem;
+- is suitable for production network operations;
+- will produce accurate network health conclusions; or
+- will operate in every environment.
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT OWNER
+SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, EXEMPLARY, OR OTHER DAMAGES ARISING FROM OR RELATED TO
+THE USE OR INABILITY TO USE THE SOFTWARE.
+
+This includes, without limitation, network outages, service interruption,
+lost revenue, data loss, operational errors, incorrect troubleshooting
+decisions, or production incidents.
+
+11. NETWORK OPERATIONS DISCLAIMER
+
+The Software is an engineering and analysis tool.
+
+A health status, SIP classification, error classification, or
+troubleshooting recommendation generated by the Software must not be
+treated as the sole basis for production network changes.
+
+Production actions should be validated using appropriate operational
+procedures, alarms, KPIs, logs, traces, and engineering judgment.
+
+12. TERMINATION
+
+The rights granted under this License terminate automatically if you
+materially violate the terms of this License.
+
+Upon termination, you must stop using and distributing the Software,
+subject to rights that cannot lawfully be terminated.
+
+13. RESERVATION OF RIGHTS
+
+All rights not expressly granted by this License are reserved by the
+Copyright Owner.
+
+14. GOVERNING LAW
+
+This License shall be interpreted under applicable law. Any dispute
+should be resolved according to applicable law and jurisdiction agreed
+between the parties.
+
+15. ACCEPTANCE
+
+By using, copying, modifying, or running the Software beyond merely
+viewing the public repository, you acknowledge that you have read,
+understood, and agreed to the terms of this License.
+
+Copyright (c) 2026 Romulus Ramses
+All rights reserved.
